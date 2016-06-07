@@ -1,0 +1,12 @@
+$ git status
+
+node_modules/
+bower_components/
+*.log
+*.md
+LICENSE
+__MACOSC/
+build/
+dist/
+libs/
+
